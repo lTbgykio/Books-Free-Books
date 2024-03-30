@@ -48,15 +48,6 @@
 1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
 1. [SICP（JavaScript 版）](https://sicp.comp.nus.edu.sg/)
 
-### 1.2 其他 Web 开发
-
-1. [http3-explained](https://github.com/bagder/http3-explained)
-1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
-1. [实用排版指南](https://practicaltypography.com/)
-1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
-1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
-1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
-1. [WebRTC 教程](https://webrtcforthecurious.com/)（WebRTC for the Curious）
 
 ## 二、系统管理
 
@@ -92,14 +83,6 @@
 1. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
 
-### 3.2 Go
-
-1. [Go 101](https://go101.org/)
-1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
-1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
-1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
-1. [Go 语言编程](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)（How To Code in Go）
-
 ### 3.3 Python
 
 1. [Python 编程基础](https://archive.org/details/2018Fundamentals.ofPython)（PDF）
@@ -125,38 +108,6 @@
 1. [黑客的贝叶斯方法：以 Python 为例](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 1. [解决算法和数据结构问题（Python 版）](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)（Problem Solving with Algorithms and Data Structures）
 
-### 3.4 Rust
-
-1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
-1. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
-
-### 3.5 其他编程语言
-
-1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
-1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
-1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
-1. [SICP（Clojure 版）](http://www.sicpdistilled.com/)
-1. [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
-1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
-1. [廖雪峰 Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)（中文）
-1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
-1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
-1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
-1. [Haskell 语言48小时教程](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-1. [Haskell 语言入门](http://dev.stephendiehl.com/hask/)
-1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
-1. [Lisp 漫画教程](http://www.lisperati.com/casting.html)（Casting Spels in Lisp）
-1. [Nim 语言编程](http://ssalewski.de/nimprogramming.html)
-1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
-1. [高阶 Perl](https://hop.perl.plover.com/)
-1. [Prolog 的艺术](https://mitpress.mit.edu/books/art-prolog-second-edition)（The art of Prolog）
-1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
-1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
-1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
-1. [PC Assembly Language](https://pacman128.github.io/pcasm/)
 
 ## 四、数据库
 
@@ -276,7 +227,6 @@
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
 1. [日语语法教程](https://res.wokanxing.info/jpgramma/conditionals.html)（中文）
 1. [基础德语教程](https://courses.dcs.wisc.edu/wp/readinggerman/print-entire-textbook/)
-1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [老外的深圳电子产品采购指南](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf)（PDF）
 1. [How to get rich](https://nav.al/rich)
 1. [Marc Andreessen 创业文集](https://pmarchive.com/)
